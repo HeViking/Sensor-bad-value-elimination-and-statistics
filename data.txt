@@ -1,0 +1,1272 @@
+North latitude: 23.043469degree
+East: 113.386198degree
+Temperature: 16.400000degree Celsius
+Height: 78.958626m
+pressure:  102277.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386198degree
+Temperature: 16.400000degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386198degree
+Temperature: 16.400000degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386198degree
+Temperature: 16.299999degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º100.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386198degree
+Temperature: 16.299999degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386198degree
+Temperature: 16.299999degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º131.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386208degree
+Temperature: 16.299999degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º133.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386208degree
+Temperature: 16.299999degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º133.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386218degree
+Temperature: 16.299999degree Celsius
+Height: 78.875992m
+pressure:  102276.000000PA
+PM2.5£º132.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386218degree
+Temperature: 16.200001degree Celsius
+Height: 78.875992m
+pressure:  102276.000000PA
+PM2.5£º127.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386218degree
+Temperature: 16.200001degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386218degree
+Temperature: 16.200001degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386228degree
+Temperature: 16.299999degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º107.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386228degree
+Temperature: 16.299999degree Celsius
+Height: 78.958626m
+pressure:  102277.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 77.471245m
+pressure:  102259.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386238degree
+Temperature: 16.400000degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386238degree
+Temperature: 16.400000degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386338degree
+Temperature: 16.400000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386338degree
+Temperature: 16.400000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386248degree
+Temperature: 16.400000degree Celsius
+Height: 77.553879m
+pressure:  102260.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386248degree
+Temperature: 16.400000degree Celsius
+Height: 79.206497m
+pressure:  102280.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.400000degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.400000degree Celsius
+Height: 79.206497m
+pressure:  102280.000000PA
+PM2.5£º109.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.500000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.500000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.400000degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.400000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.400000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º100.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.400000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º98.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.500000degree Celsius
+Height: 78.958626m
+pressure:  102277.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.400000degree Celsius
+Height: 78.958626m
+pressure:  102277.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.400000degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.400000degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.400000degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º109.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.400000degree Celsius
+Height: 78.958626m
+pressure:  102277.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.400000degree Celsius
+Height: 78.958626m
+pressure:  102277.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.400000degree Celsius
+Height: 78.958626m
+pressure:  102277.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.500000degree Celsius
+Height: 79.206497m
+pressure:  102280.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.500000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386278degree
+Temperature: 16.500000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º112.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386278degree
+Temperature: 16.500000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º112.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386278degree
+Temperature: 16.500000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º111.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386278degree
+Temperature: 16.400000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º107.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386278degree
+Temperature: 16.400000degree Celsius
+Height: 77.305962m
+pressure:  102257.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386278degree
+Temperature: 16.400000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º98.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386278degree
+Temperature: 16.400000degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386278degree
+Temperature: 16.400000degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º100.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.400000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º107.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.400000degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º107.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.400000degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386268degree
+Temperature: 16.299999degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º109.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.299999degree Celsius
+Height: 78.958626m
+pressure:  102277.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386258degree
+Temperature: 16.299999degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º97.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386248degree
+Temperature: 16.299999degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º95.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386248degree
+Temperature: 16.299999degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º90.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386248degree
+Temperature: 16.299999degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º87.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386248degree
+Temperature: 16.299999degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º97.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386248degree
+Temperature: 16.299999degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º98.000000ug/m3
+North latitude: 23.043479degree
+East: 113.386248degree
+Temperature: 16.299999degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º100.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.200001degree Celsius
+Height: 78.875992m
+pressure:  102276.000000PA
+PM2.5£º94.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 78.710747m
+pressure:  102274.000000PA
+PM2.5£º91.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.299999degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º91.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.200001degree Celsius
+Height: 78.875992m
+pressure:  102276.000000PA
+PM2.5£º85.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.200001degree Celsius
+Height: 79.123886m
+pressure:  102279.000000PA
+PM2.5£º87.000000ug/m3
+North latitude: 23.043469degree
+East: 113.386238degree
+Temperature: 16.200001degree Celsius
+Height: 78.380234m
+pressure:  102270.000000PA
+PM2.5£º95.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386228degree
+Temperature: 16.200001degree Celsius
+Height: 77.140678m
+pressure:  102255.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386228degree
+Temperature: 16.100000degree Celsius
+Height: 78.628113m
+pressure:  102273.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.200001degree Celsius
+Height: 78.628113m
+pressure:  102273.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.100000degree Celsius
+Height: 78.875992m
+pressure:  102276.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.100000degree Celsius
+Height: 78.628113m
+pressure:  102273.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.100000degree Celsius
+Height: 78.875992m
+pressure:  102276.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.100000degree Celsius
+Height: 78.628113m
+pressure:  102273.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.100000degree Celsius
+Height: 78.875992m
+pressure:  102276.000000PA
+PM2.5£º111.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.100000degree Celsius
+Height: 79.041252m
+pressure:  102278.000000PA
+PM2.5£º111.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.100000degree Celsius
+Height: 78.380234m
+pressure:  102270.000000PA
+PM2.5£º113.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.100000degree Celsius
+Height: 78.380234m
+pressure:  102270.000000PA
+PM2.5£º109.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.000000degree Celsius
+Height: 77.884415m
+pressure:  102264.000000PA
+PM2.5£º109.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.100000degree Celsius
+Height: 78.380234m
+pressure:  102270.000000PA
+PM2.5£º111.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.132324m
+pressure:  102267.000000PA
+PM2.5£º110.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.793381m
+pressure:  102275.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.132324m
+pressure:  102267.000000PA
+PM2.5£º98.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.132324m
+pressure:  102267.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 79.289124m
+pressure:  102281.000000PA
+PM2.5£º95.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 79.289124m
+pressure:  102281.000000PA
+PM2.5£º96.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º96.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 15.900000degree Celsius
+Height: 77.305962m
+pressure:  102257.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 16.000000degree Celsius
+Height: 77.553879m
+pressure:  102260.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 15.900000degree Celsius
+Height: 78.793381m
+pressure:  102275.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 15.900000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 15.900000degree Celsius
+Height: 78.793381m
+pressure:  102275.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386218degree
+Temperature: 15.900000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386228degree
+Temperature: 15.900000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386228degree
+Temperature: 15.900000degree Celsius
+Height: 78.793381m
+pressure:  102275.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386218degree
+Temperature: 16.000000degree Celsius
+Height: 79.289124m
+pressure:  102281.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386218degree
+Temperature: 16.000000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386228degree
+Temperature: 15.900000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386228degree
+Temperature: 15.900000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386228degree
+Temperature: 16.000000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386228degree
+Temperature: 15.900000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386228degree
+Temperature: 15.900000degree Celsius
+Height: 78.793381m
+pressure:  102275.000000PA
+PM2.5£º109.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386228degree
+Temperature: 16.000000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043449degree
+East: 0.042228degree
+Temperature: 16.000000degree Celsius
+Height: 77.305962m
+pressure:  102257.000000PA
+PM2.5£º109.000000ug/m3
+North latitude: 23.043449degree
+East: 0.042228degree
+Temperature: 15.900000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386228degree
+Temperature: 16.000000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386228degree
+Temperature: 16.000000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 16.000000degree Celsius
+Height: 77.636520m
+pressure:  102261.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 16.000000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 16.000000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 16.000000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043449degree
+East: 113.365838degree
+Temperature: 16.000000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043449degree
+East: 113.365838degree
+Temperature: 16.000000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.900000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.900000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.900000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º100.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.900000degree Celsius
+Height: 77.305962m
+pressure:  102257.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.800000degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º100.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.800000degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.800000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º93.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.800000degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º94.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.800000degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º94.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 78.958626m
+pressure:  102277.000000PA
+PM2.5£º94.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º93.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 77.471245m
+pressure:  102259.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386238degree
+Temperature: 15.600000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.884415m
+pressure:  102264.000000PA
+PM2.5£º108.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.471245m
+pressure:  102259.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 78.380234m
+pressure:  102270.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 78.132324m
+pressure:  102267.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.884415m
+pressure:  102264.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 78.132324m
+pressure:  102267.000000PA
+PM2.5£º100.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.884415m
+pressure:  102264.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.884415m
+pressure:  102264.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 78.628113m
+pressure:  102273.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.471245m
+pressure:  102259.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.884415m
+pressure:  102264.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 78.132324m
+pressure:  102267.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043459degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.884415m
+pressure:  102264.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º96.000000ug/m3
+North latitude: 23.043449degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.471245m
+pressure:  102259.000000PA
+PM2.5£º98.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.471245m
+pressure:  102259.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.471245m
+pressure:  102259.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 76.975395m
+pressure:  102253.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.884415m
+pressure:  102264.000000PA
+PM2.5£º110.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.884415m
+pressure:  102264.000000PA
+PM2.5£º110.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.600000degree Celsius
+Height: 77.223320m
+pressure:  102256.000000PA
+PM2.5£º109.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.700000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.700000degree Celsius
+Height: 77.471245m
+pressure:  102259.000000PA
+PM2.5£º120.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.700000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º123.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386248degree
+Temperature: 15.700000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º122.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º121.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 76.479538m
+pressure:  102247.000000PA
+PM2.5£º123.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 77.223320m
+pressure:  102256.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 76.727470m
+pressure:  102250.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 77.223320m
+pressure:  102256.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 76.975395m
+pressure:  102253.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 76.727470m
+pressure:  102250.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.700000degree Celsius
+Height: 77.223320m
+pressure:  102256.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.800000degree Celsius
+Height: 78.214958m
+pressure:  102268.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386238degree
+Temperature: 15.800000degree Celsius
+Height: 77.223320m
+pressure:  102256.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386228degree
+Temperature: 15.800000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º98.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386228degree
+Temperature: 15.800000degree Celsius
+Height: 77.553879m
+pressure:  102260.000000PA
+PM2.5£º97.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386218degree
+Temperature: 15.800000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386218degree
+Temperature: 15.800000degree Celsius
+Height: 77.553879m
+pressure:  102260.000000PA
+PM2.5£º98.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386218degree
+Temperature: 15.800000degree Celsius
+Height: 77.553879m
+pressure:  102260.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386218degree
+Temperature: 15.800000degree Celsius
+Height: 77.553879m
+pressure:  102260.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386218degree
+Temperature: 15.800000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386218degree
+Temperature: 15.900000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 77.305962m
+pressure:  102257.000000PA
+PM2.5£º100.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.900000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º101.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.900000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.900000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º104.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 77.719162m
+pressure:  102262.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 78.462845m
+pressure:  102271.000000PA
+PM2.5£º102.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º103.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 77.471245m
+pressure:  102259.000000PA
+PM2.5£º107.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.800000degree Celsius
+Height: 77.553879m
+pressure:  102260.000000PA
+PM2.5£º111.000000ug/m3
+North latitude: 23.043439degree
+East: 0.208898degree
+Temperature: 15.800000degree Celsius
+Height: 77.967056m
+pressure:  102265.000000PA
+PM2.5£º110.000000ug/m3
+North latitude: 23.043439degree
+East: 0.208898degree
+Temperature: 15.800000degree Celsius
+Height: 77.553879m
+pressure:  102260.000000PA
+PM2.5£º112.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.900000degree Celsius
+Height: 77.305962m
+pressure:  102257.000000PA
+PM2.5£º119.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.900000degree Celsius
+Height: 77.058037m
+pressure:  102254.000000PA
+PM2.5£º116.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.900000degree Celsius
+Height: 77.305962m
+pressure:  102257.000000PA
+PM2.5£º113.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.900000degree Celsius
+Height: 77.553879m
+pressure:  102260.000000PA
+PM2.5£º114.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.900000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º112.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 15.900000degree Celsius
+Height: 78.793381m
+pressure:  102275.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386198degree
+Temperature: 15.900000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º106.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386198degree
+Temperature: 15.900000degree Celsius
+Height: 78.545479m
+pressure:  102272.000000PA
+PM2.5£º105.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º100.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.049690m
+pressure:  102266.000000PA
+PM2.5£º99.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 77.801773m
+pressure:  102263.000000PA
+PM2.5£º96.000000ug/m3
+North latitude: 23.043439degree
+East: 113.386208degree
+Temperature: 16.000000degree Celsius
+Height: 78.297592m
+pressure:  102269.000000PA
+PM2.5£º92.000000ug/m3
