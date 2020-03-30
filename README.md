@@ -1,47 +1,40 @@
-# Sensor-bad-value-elimination-and-statistics
-Eliminate the bad value of the continuous data collected by the sensor, and determine whether there is linear deviation and periodic deviation, the average value of the statistical data, absolute error, relative error
+# 函数简介
+删除传感器采集数据的坏值，判断是否存在线性偏差和周期偏差，统计数据的平均值、绝对误差、相对误差  
+本项目使用Matlab2014实现（需在Matlab2010或更高版本使用）
 
-function [average,error] = Isee(x0,c,detail)
-
-The equivalent precision measurement result is processed, and the expression of the measurement result is output (mean value ± absolute error)
-
-[average,error] = Isee(x0,c,detail)
-
------Input parameters-------
-
-x0: measured source data (one-dimensional vector: 1*n vector)
-
-c: correction value (a number) (default is 0)
-
-detail: Whether to display detailed processing results (one number, default value is 0), =0 not displayed, =1 display, = 2 only shows the final result (suitable for multi-category data analysis)
-
------Output parameters-------
-
-average: average
-
-error: absolute error
-
-—————Example of use————————
-
+# ISee函数详细介绍
+对等精密度测量结果进行处理，输出测量结果的表达式(平均值 ± 绝对误差)  
+`\[average,error\] = Isee(x0,c,detail)`
+#### 输入参数
+`x0`:测量的源数据（一维向量:1*n向量）  
+`c`:修正值（一个数）（默认值为0）  
+`detail`：是否显示详细处理结果（一个数,默认值为0），=0不显示，=1显示，=2只显示最终结果（适合多类别数据分析）  
+#### 输出参数  
+`average`：平均值  
+`error`：绝对误差  
+#### 使用范例
  1.
- >>Isee([205.3,204.94,205.63,205.24,206.65,204.97,205.36,205.16,205.01,204.7,205.56,205.35,205.21,205.19,205.21,205.32]);
+ `Isee(\[205.3,204.94,205.63,205.24,206.65,204.97,205.36,205.16,205.01,204.7,205.56,205.35,205.21,205.19,205.21,205.32\]);`
 
- 2. Create a new variable a, double-click to edit the variable, enter or copy the data, and note that it needs to be a 1*n-dimensional vector (ie, horizontally arranged).
- >>Isee(a);
+ 2.新建变量a，双击编辑变量，输入或复制数据，注意需为 1*n 维向量(即打横排列)。
+   `Isee(a);`
+ 3.高级应用
+   `Isee([1,2,3],  0.1 , 1);   %修正值为0.1  ， 显示详细结果`
 
- 3. Advanced application
- >>Isee([1,2,3], 0.1 , 1); % correction value is 0.1 , showing detailed results
+ # txtsee函数详细介绍
+[ ] = txtsee( file )  
+ 对既定格式的txt文件进行处理，输出处理后的结果  
  
- 
- 
- 
- 
- function [ ] = txtsee( file )
- 
- Processes the txt data in the specified format, and outputs the processed result.
- 
- Enter the parameter file: the path to Notepad, such as 'data.txt' (the default directory is matlab's work path) or 'C:\Users\Administrator\Desktop\data.txt'
- 
- output: average and absolute error of each data
- 
-Note: This function needs to be used in Matlab2010 or higher.
+输入参数file：记事本的路径，如'data.txt'(默认目录为matlab的work路径)或'C:\Users\Administrator\Desktop\data.txt'  
+输出结果：每项数据的平均值和绝对误差  
+
+#### 使用范例
+`txtsee(‘data.txt’) `
+
+计算结果：  
+北纬： 23.0435 ± 3e-06  
+东经： 113.386 ± 4e-06  
+温度： 16.01 ± 0.06  
+高度： 78.2 ± 0.1  
+气压： 102267 ± 1  
+PM2.5： 103 ± 1  
